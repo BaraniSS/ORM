@@ -1,6 +1,6 @@
-# Ex02 Django ORM Web Application
+# Ex03 Django ORM Web Application
 
-# Date:21.5.2025
+# Date:29.5.2025
 
 # AIM
 
